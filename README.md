@@ -1,6 +1,6 @@
 # Optimax Dev Shop
 
-![Screenshot](screenshot1.png)
+![Screenshot](screenshot.png)
 
 A store cart emulator application built with:
 - React
